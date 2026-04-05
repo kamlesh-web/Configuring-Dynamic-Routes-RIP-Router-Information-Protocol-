@@ -1,3 +1,9 @@
+## Overview
+<img width="1366" height="768" alt="Dynamic Routes (Routing Information Protocol) Overview" src="https://github.com/user-attachments/assets/9befff70-9f03-47d8-8c8c-0b398c82ade3" />
+
+---
+## RIP Configurations
+
     Router>
     Router>enable
     Router#
@@ -93,3 +99,7 @@
     R*   0.0.0.0/0 [120/2] via 192.168.5.1, 00:00:06, GigabitEthernet0/0/0
     
     Router1(config-router)#
+---
+
+## Ping Test
+<img width="1366" height="768" alt="Dynamic Routes (Routing Information Protocol) Connectivity Success" src="https://github.com/user-attachments/assets/59e1fc2c-4dba-4103-b206-b5d35a1a4701" />
